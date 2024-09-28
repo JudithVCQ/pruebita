@@ -88,7 +88,7 @@ public class VentanaVistaFactura extends javax.swing.JFrame {
 
         jLabelTitulo.setFont(new java.awt.Font("Segoe UI", 0, 36)); // NOI18N
         jLabelTitulo.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabelTitulo.setText("Tambito");
+        jLabelTitulo.setText("tambooooo");
 
         jLabelProducto.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         jLabelProducto.setText("Producto");
@@ -274,7 +274,6 @@ public class VentanaVistaFactura extends javax.swing.JFrame {
                 .addComponent(jLabelTitulo)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabelTituloVentas)
-                .addGap(18, 18, 18)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(1, 1, 1)
@@ -304,7 +303,7 @@ public class VentanaVistaFactura extends javax.swing.JFrame {
                 .addComponent(jButtonLimpiar)
                 .addGap(18, 18, 18)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 179, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(18, 28, Short.MAX_VALUE)
+                .addGap(18, 46, Short.MAX_VALUE)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addComponent(jLabelSubtotalNumber)
