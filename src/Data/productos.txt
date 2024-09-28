@@ -1,0 +1,4 @@
+1,Gaseosa,3.5,68
+2,Galleta,2.0,60
+3,Snack,2.0,65
+4,Papel Higienico,1.0,86
